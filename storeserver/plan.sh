@@ -1,5 +1,7 @@
-gopkg="upspin.io/cmd/storeserver"
+pkg_origin=srenatus
+pkg_version=ad92bdb
 pkg_name=storeserver
+gopkg="upspin.io/cmd/storeserver"
 pkg_description="upspin storeserver"
 pkg_exports=(
   [port]=service.port # TODO

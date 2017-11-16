@@ -1,5 +1,3 @@
-pkg_origin=srenatus
-pkg_version=ad92bdb # there's no tags or releases yet
 pkg_maintainer="Stephan Renatus <srenatus@chef.io>"
 pkg_license=("BSD-3-Clause")
 pkg_upstream_url="https://github.com/upspin/upspin"
