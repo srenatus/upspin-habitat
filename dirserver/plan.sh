@@ -1,5 +1,5 @@
 pkg_origin=srenatus
-pkg_version=ad92bdb
+pkg_version=b1b1128
 pkg_name=dirserver
 gopkg="upspin.io/cmd/dirserver"
 pkg_description="upspin dirserver"
