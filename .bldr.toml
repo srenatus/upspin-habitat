@@ -1,2 +1,3 @@
 [dirserver]
 plan_path = "dirserver/plan.sh"
+paths = [ "dirserver/*" ]
